@@ -20,7 +20,15 @@ preparation, safe practice labs, and realistic career options.
 > **not affiliated with or endorsed by EC-Council**. It contains no official
 > course materials, exam dumps, or copyrighted content. Certification
 > versions, exam format, eligibility rules, prices, and renewal/CPD policies
-> change — **verify everything on [eccouncil.org](https://www.eccouncil.org/)**.
+> change — **verify everything on [eccouncil.org](https://www.eccouncil.org/)
+> and [cert.eccouncil.org](https://cert.eccouncil.org/)**.
+>
+> 📌 **Status note (checked 26 Nov 2026):** ECSA is not listed in EC-Council's
+> current certification catalogue. The official
+> [Retired Certifications](https://cert.eccouncil.org/retired-certification.html)
+> page lists ECSA v9 (14 Sep 2018) and ECSA (Practical) (15 May 2021). This
+> site teaches the still-useful VAPT methodology as a **historical path**; it
+> does not claim a current exam, version, or entitlement.
 >
 > 🛡️ **Authorized testing only.** All methodology content is educational and
 > assumes you are practicing in a lab you own or a system you have explicit
@@ -60,6 +68,11 @@ preparation, safe practice labs, and realistic career options.
 | [Skills, Hiring & Reality Check](en/career/reality-check.md) | What employers actually look for; verify current job market data |
 
 Every article exists in **English** (`en/`) and **Indonesian** (`id/`).
+
+Each of the 26 articles is a full study guide (4,200+ words) with learning
+objectives, comparison tables, decision diagrams, fictional worked cases,
+scenario exercises with answer keys, reusable checklists, a glossary, and
+source-verification notes — not a shallow summary.
 
 ## Read on the web
 

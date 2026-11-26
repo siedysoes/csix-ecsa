@@ -20,7 +20,15 @@ persiapan ujian, lab latihan yang aman, dan pilihan karier yang realistis.
 > atau didukung oleh EC-Council**. Tidak ada materi kursus resmi, kunci jawaban
 > ujian, atau konten berhak cipta di sini. Versi sertifikasi, format ujian,
 > syarat, harga, dan kebijakan perpanjangan/CPD dapat berubah — **verifikasi
-> semuanya di [eccouncil.org](https://www.eccouncil.org/)**.
+> semuanya di [eccouncil.org](https://www.eccouncil.org/) dan
+> [cert.eccouncil.org](https://cert.eccouncil.org/)**.
+>
+> 📌 **Catatan status (dicek 26 Nov 2026):** ECSA tidak tercantum dalam katalog
+> sertifikasi EC-Council saat ini. Halaman resmi
+> [Retired Certifications](https://cert.eccouncil.org/retired-certification.html)
+> mencantumkan ECSA v9 (14 Sep 2018) dan ECSA (Practical) (15 Mei 2021). Situs
+> ini mengajarkan metodologi VAPT yang masih berguna sebagai **jalur historis**;
+> tidak mengklaim ujian, versi, atau hak resmi yang masih berlaku.
 >
 > 🛡️ **Hanya pengujian berizin.** Seluruh materi metodologi bersifat edukatif
 > dan mengasumsikan Anda berlatih di lab milik sendiri atau sistem yang
@@ -60,6 +68,11 @@ persiapan ujian, lab latihan yang aman, dan pilihan karier yang realistis.
 | [Skill, Rekrutmen & Realita Lapangan](id/career/reality-check.md) | Apa yang dicari employer; verifikasi data pasar kerja terkini |
 
 Setiap artikel tersedia dalam **English** (`en/`) dan **Bahasa Indonesia** (`id/`).
+
+Tiap artikel adalah panduan belajar lengkap (4.200+ kata): tujuan belajar,
+tabel perbandingan, diagram alur keputusan, studi kasus fiktif, latihan
+skenario dengan kunci jawaban, checklist siap pakai, glosarium, dan catatan
+verifikasi sumber — bukan ringkasan dangkal.
 
 ## Baca di web
 
