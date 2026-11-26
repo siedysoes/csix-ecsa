@@ -211,7 +211,7 @@ Halaman pendamping dengan judul persis tersedia pada jalur placeholder; ganti `s
 
 ## Menulis artikel yang bisa dipelajari pembela
 
-Mulai dari keputusan, singkirkan mekanika dari halaman ringkasan, dan berikan sesuatu yang bisa dicek pembaca pada sistemnya sendiri.
+Mulai dari keputusan, singkirkan mekanika dari ringkasan, dan berikan hal yang bisa dicek pembaca.
 
 | Bagian tulisan | Pertanyaan pembela | Muatan aman |
 |---|---|---|
@@ -268,7 +268,7 @@ Peninjau memindai indeks, membuka satu artefak, lalu menguji isinya lewat percak
 | Tanggapan terhadap tinjauan | Koreksi dicatat dan diterapkan | Bersikap defensif atau tidak ada tanggapan |
 | Keselamatan dan pengendalian diri | Material privat ditahan beserta alasannya | Detail sensitif "terlupa" di repositori |
 
-**Pemindaian sembilan puluh detik** mencari judul, label sumber, tanggal, batas, dan tautan yang berfungsi. Setelah itu satu temuan diuji: apa yang diamati, apa yang diasumsikan, dan apa yang akan membuktikan perbaikan? Pertanyaan lisan — "apa yang tidak Anda lakukan, dan mengapa?" — tidak bisa dipalsukan oleh tata letak yang rapi. Beri nilai sendiri 0 sampai 2 per dimensi; nilai 0 adalah pekerjaan perbaikan, bukan alasan untuk memulai proyek kesepuluh.
+**Pemindaian sembilan puluh detik** mencari judul, label sumber, tanggal, batas, dan tautan yang berfungsi. Setelah itu satu temuan diuji: apa yang diamati, apa yang diasumsikan, dan apa yang akan membuktikan perbaikan? Pertanyaan lisan — "apa yang tidak Anda lakukan, dan mengapa?" — tidak bisa dipalsukan oleh tata letak yang rapi. Beri nilai 0 sampai 2 per dimensi; nilai 0 berarti perbaikan, bukan proyek baru.
 
 ---
 
@@ -463,7 +463,7 @@ Jawab sebelum membuka kunci; latihan ini melatih **keputusan**, bukan hafalan is
 
 **A11.** Klaim itu bisa menyesatkan. ECSA tidak tercantum dalam katalog EC-Council saat diperiksa pada 26 Nov 2026. Verifikasi di eccouncil.org dan cert.eccouncil.org, lalu tulis "belajar era ECSA, [tahun], jalur historis" atau hilangkan gelarnya dan tunjukkan artefak. Jangan mengarang versi atau format ujian.
 
-**A12.** Katakan terus terang bahwa itu lab sintetis, lalu jelaskan batas, pengamatan, simpulan, batasan, dan perubahan pertahanan. Tambahkan bahwa material rahasia sengaja ditahan.
+**A12.** Katakan terus terang bahwa itu lab sintetis, lalu jelaskan batas, pengamatan, simpulan, batasan, dan perubahan pertahanan.
 
 </details>
 

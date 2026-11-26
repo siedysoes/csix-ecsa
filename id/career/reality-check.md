@@ -48,11 +48,9 @@ itu.
 
 ## Mengapa perlu reality check
 
-Pemasaran kredensial menyederhanakan rekrutmen menjadi janji yang rapi:
-belajar, lulus, lalu layak kerja. Seorang manajer yang membuka lowongan
-mengajukan pertanyaan yang jauh lebih sempit dan lebih berat: *dapatkah saya
-mempercayakan orang ini pada lingkup, klien, dan laporan yang mungkin
-mendorong orang lain mengeluarkan uang atau mengubah sistem?*
+Pemasaran kredensial menjanjikan: belajar, lulus, lalu layak kerja. Manajer
+yang membuka lowongan bertanya lebih sempit: *dapatkah saya mempercayakan
+orang ini pada lingkup, klien, dan laporan yang mendorong orang bertindak?*
 
 Dalam janji itu, tiga hal yang berbeda sering ditumpuk jadi satu:
 
@@ -75,11 +73,10 @@ ukuran kecocokan kerja.
 
 ## Klaim versus bukti
 
-Perlakukan angka dan kisah sukses dari penyedia pelatihan sebagai klaim.
-Mungkin benar untuk kelompok, wilayah, atau dekade tertentu; itu tidak
-membuktikan bahwa angka itu salah, hanya bahwa ia bukan ramalan untuk Anda.
-Seorang lulusan mungkin mendapat peran karena jaringan, lokasi, atau
-pengalaman sebelumnya yang tidak disebut dalam brosur.
+Perlakukan angka dan kisah sukses penyedia sebagai klaim: mungkin benar
+untuk kelompok atau wilayah lain, tetapi bukan ramalan untuk Anda. Seorang
+lulusan mungkin dibantu jaringan atau pengalaman sebelumnya yang tidak
+disebut brosur.
 
 | Klaim pemasaran yang mungkin Anda temui | Apa yang sebenarnya dinyatakan | Bukti yang bisa Anda kumpulkan sendiri |
 |---|---|---|
@@ -92,11 +89,9 @@ pengalaman sebelumnya yang tidak disebut dalam brosur.
 | "Kredensial ini berlaku secara global saat ini" | Perlu dicek terhadap katalog penerbit | Periksa katalog dan daftar retired pada tanggal Anda memutuskan |
 | "Pengalaman dunia nyata tidak diperlukan" | Menghapus bagian tersulit hanya dengan pernyataan | Jelaskan siapa peninjau Anda, apa batasnya, dan ke mana Anda eskalasi |
 
-Kolom kanan tidak memerlukan akses istimewa atau keberuntungan. Ia hanya
-membutuhkan catatan jujur dan kesediaan untuk diperiksa. Ada dua catatan
-penting: pekerjaan yang bersifat rahasia bisa sangat kuat tetapi tidak bisa
-ditunjukkan, dan sebuah artefak tidak membuktikan karakter. Referensi serta
-kerja di bawah pengawasan mengisi celah yang tidak bisa diisi dokumen.
+Kolom kanan hanya membutuhkan catatan jujur dan kesediaan diperiksa. Kerja
+rahasia bisa kuat tetapi tak bisa ditunjukkan; artefak juga tidak
+membuktikan karakter. Referensi dan kerja tersupervisi mengisi celah itu.
 
 Sikap yang berguna bukan mempercayai atau menolak semua klaim, melainkan
 **mengubahnya menjadi pertanyaan**.
@@ -105,10 +100,9 @@ Sikap yang berguna bukan mempercayai atau menolak semua klaim, melainkan
 
 ## Apa yang benar-benar diuji pengusaha
 
-Rekrutmen adalah rangkaian saringan. Setiap saringan menjawab satu pertanyaan
-sempit dan melewatkan hampir semua hal lain. Memahami ini membantu Anda tidak
-panic ketika satu tahap terasa tidak adil, dan tidak sombong ketika satu tahap
-terasa mudah.
+Rekrutmen adalah rangkaian saringan. Tiap tahap menjawab satu pertanyaan
+sempit dan melewatkan sisanya. Pahami ini agar tidak panik saat tahap terasa
+tidak adil, dan tidak sombong saat terasa mudah.
 
 | Tahap | Pertanyaan penilai | Yang biasanya membantu | Yang *tidak* bisa diketahui tahap ini |
 |---|---|---|---|
@@ -117,7 +111,6 @@ terasa mudah.
 | Wawancara teknis / skenario | "Bagaimana orang ini bernalar saat informasinya tidak lengkap?" | Asumsi yang disebut, batas yang dinamai, eskalasi yang pernah Anda lakukan | Perilaku Anda selama berminggu-minggu dengan tim yang mengawasi |
 | Contoh kerja / tugas rumah | "Bisakah dia menghasilkan sesuatu yang bisa ditinjau?" | Skenario terbatas, keluaran pendek, fakta terpisah dari dugaan | Apakah Anda dibantu, dan bagaimana Anda memperlakukan klien nyata |
 | Panel / wawancara manajer | "Apakah orang ini cocok dengan standar tim?" | Contoh spesifik menerima masukan dan mengubah arah | Ritme harian dan kualitas pengawasan di tim itu |
-| Referensi / pemeriksaan latar belakang | "Apakah orang kredibel pernah melihat perilaku ini?" | Sumber referensi yang bisa bicara soal keandalan dan etika | Kedalaman teknis pada bidang yang baru bagi Anda |
 | Uji coba, masa percobaan, atau engagement pertama | "Apa yang terjadi saat kendala benar-benar ada?" | Bertanya soal lingkup, jendela, kondisi berhenti, dan peninjau sebelum mulai | Belum ada — di tahap inilah bukti benar-benar dibuat |
 
 **Contoh kerja** adalah latihan pendek berbasis materi fiktif: sebut
@@ -129,9 +122,8 @@ kepemilikan target tidak bisa ditunjukkan, itu sinyal berhenti.
 ada tenggat, ada peninjau, inventaris tidak lengkap, dan pemangku kepentingan
 yang tidak setuju. Yang dinilai bukan kecerdasan, melainkan kejujuran tentang
 apa yang Anda lihat, apa yang Anda simpulkan, dan apa yang Anda hentikan.
-Kandidat yang mengatakan "saya tidak bisa memastikan ini dalam jendela yang
-disepakati" sering lebih dipercaya daripada kandidat yang memberikan kesimpulan
-pasti dari bukti yang setengah.
+Mengatakan "saya tidak bisa memastikan ini dalam jendela yang disepakati"
+sering lebih dipercaya daripada kesimpulan pasti dari bukti setengah.
 
 Beberapa peran juga memerlukan pemeriksaan latar belakang atau syarat
 kelayakan; aturannya berbeda menurut negara dan pemberi kerja. Tanyakan
@@ -188,13 +180,11 @@ membela ego. Ini bukan tanda kelemahan. Justru ini keterampilan yang dicari
 manajer, karena kesalahan yang terdeteksi awal jauh lebih murah daripada
 kesalahan yang ditemukan klien.
 
-Supervisi yang baik memiliki ciri-ciri tertentu: peninjau yang disebut
-namanya, lingkup tertulis, jendela yang disepakati, irama check-in yang jelas,
-kondisi berhenti yang tidak kabur, serta sesi refleksi di mana kesalahan
-diperlakukan sebagai data. Ia juga menyatakan secara eksplisit apa yang
-boleh Anda putuskan sendiri. Jika tidak ada yang bisa mengatakan siapa yang
-menandatangani otorisasi, maka Anda tidak sedang disupervisi — Anda sedang
-terpapar risiko.
+Supervisi yang baik berarti peninjau bernama, lingkup tertulis, jendela
+disepakati, irama check-in, kondisi berhenti jelas, dan refleksi yang
+memperlakukan kesalahan sebagai data. Ia juga menyatakan apa yang boleh Anda
+putuskan sendiri. Jika tidak ada yang menyebut penandatangan otorisasi, Anda
+tidak disupervisi — Anda terpapar risiko.
 
 Pertimbangan tumbuh lewat **keputusan yang dibatasi**: memilih cara paling
 tidak mengganggu untuk menjawab sebuah pertanyaan, membiarkan satu petunjuk
@@ -221,10 +211,9 @@ orang yang berbicara atas namanya**, dalam bentuk yang diterima organisasi
 Anda. Lab pribadi boleh Anda izinkan sendiri. Sistem bersama atau milik
 pihak ketiga mensyaratkan kepemilikan yang dibuktikan lebih dulu.
 
-Otorisasi juga bukan pengalaman. Dokumen yang ditandatangani memberi izin,
-bukan kebiasaan memeriksa inventaris, bukan kemampuan menulis temuan yang
-hati-hati, dan bukan keberanian untuk berhenti. Semua itu tumbuh dari kerja
-di bawah pengawasan dan refleksi setelahnya.
+Otorisasi juga bukan pengalaman. Dokumen memberi izin, bukan kebiasaan
+memeriksa inventaris, kemampuan menulis temuan hati-hati, atau keberanian
+berhenti. Itu tumbuh dari kerja tersupervisi dan refleksi.
 
 Bila Anda menemukan sesuatu yang menarik di luar lab Anda, jangan
 menyelidikinya lebih lanjut atau membagikannya ke publik. Gunakan proses
@@ -255,8 +244,6 @@ ditinggalkan cerita itu.
 | Daftar alat | Kenalan dengan kategori perangkat lunak | Tidak menunjukkan kapan alat itu *sebaiknya tidak* dipakai |
 | Tulisan publik | Komunikasi dan bisa ditinjau | Mungkin berupa lab; periksa label batasnya |
 | Hasil CTF | Berlatih di bawah aturan yang jelas | Kendala permainan berbeda dari kendala klien |
-| Ijazah atau sertifikat kursus | Belajar dalam jangka waktu tertentu | Tidak menyiratkan otorisasi atau pertimbangan di bawah pengawasan |
-| Kerja rahasia | Pengalaman yang bisa kuat | Verifikasi lewat referensi dan penjelasan yang tidak membocorkan detail |
 | Antusiasme | Motivasi | Berdiri sendiri, tidak bergantung pada keandalan |
 
 Aturan praktisnya: **jangan biarkan satu sinyal memikul klaim yang tidak
@@ -283,10 +270,10 @@ baca berikut membantu:
 4. **Tentukan aturan berhenti.** Aktivitas tanpa otorisasi, janji bahwa
    lencana saja cukup, atau kepemilikan sistem yang kabur: tanya sebelum
    bertindak.
-5. **Tulis tiga pertanyaan:** siapa yang meninjau kerja saya, siapa yang
-   menandatangani otorisasi, dan seperti apa bulan pertama saya?
-6. **Putuskan dengan kata yang jelas:** lamar, tanya dulu, atau lewati.
-   "Mungkin" biasanya berarti Anda belum selesai membaca.
+5. **Tulis tiga pertanyaan:** siapa meninjau, siapa menandatangani otorisasi,
+   seperti apa bulan pertama?
+6. **Putuskan:** lamar, tanya dulu, atau lewati. "Mungkin" berarti Anda belum
+   selesai membaca.
 
 | Frasa dalam lowongan | Pertanyaan yang bisa diajukan | Aturan berhenti jika tak dijawab |
 |---|---|---|
@@ -295,7 +282,6 @@ baca berikut membantu:
 | "Kirimkan laporan atas situs kami" | Apa lingkup tertulisnya dan siapa pemilik sistem itu? | Jangan mengerjakan tugas tanpa otorisasi |
 | "Mandiri" | Siapa mentor saya dan seperti apa rencana onboardingnya? | Perlakukan sebagai pertanyaan tentang dukungan, bukan ujian kepribadian |
 | "Jam kerja fleksibel" | Apakah jendela uji disepakati tertulis dan apa kondisi berhentinya? | Jangan menganggap akses di luar jam kerja otomatis disetujui |
-| "Berpengalaman dalam layanan klien" | Apakah penilaian internal atau triage kerentanan ikut dihitung? | Jangan mengarang pengalaman klien |
 
 ### Lembar kerja membaca lowongan
 
@@ -383,83 +369,73 @@ Ia menjawab dengan daftar topik kursus dan nama modul.
 tidak ada peninjau, dan tidak ada artefak selain jawaban latihan. Ia
 mengira kredensial akan membawa percakapan itu sendiri.
 
-**Keputusan.** Ia menunda lamaran selama dua minggu. Dari satu latihan lab,
-ia membuat tulisan terbatas: lingkup satu halaman yang menyebut hanya
-sistem miliknya, pengamatan bertanggal, satu temuan dengan prasyarat yang
-dinyatakan, bagian keterbatasan, dan syarat uji ulang. Ia memberi label
-*pekerjaan lab sintetis*, meminta kelompok belajar membantah klaim
-dampaknya, mencabut satu kalimat yang berlebihan, dan menyimpan jejak revisi.
-Kini percakapan dimulai dari artefak; kredensial menyusul kemudian.
+**Keputusan.** Ia menunda lamaran dua minggu. Dari satu latihan lab, ia
+membuat tulisan terbatas: lingkup sistem miliknya, pengamatan bertanggal,
+satu temuan dengan prasyarat, keterbatasan, dan syarat uji ulang. Ia memberi
+label *pekerjaan lab sintetis*, meminta kelompok belajar membantah klaimnya,
+mencabut kalimat berlebihan, dan menyimpan jejak revisi. Kini percakapan
+dimulai dari artefak.
 
-**Hasil.** Tidak langsung ada tawaran, tetapi ia lolos dari pertanyaan
-"tunjukkan kerja Anda" dan sampai ke latihan praktis, di mana pertanyaan
-lintas batasnya justru dicatat dengan baik.
+**Hasil.** Ia lolos dari pertanyaan "tunjukkan kerja Anda" dan sampai ke
+latihan praktis, di mana pertanyaan batasnya dicatat.
 
-**Pelajaran yang bisa diambil.** Kredensial menciptakan ekspektasi bukti.
-Tanpa bukti, lencana menjadi sorotan yang canggung. Satu artefak yang jujur
-mengalahkan satu lencana tambahan.
+**Pelajaran yang bisa diambil.** Kredensial menciptakan ekspektasi bukti;
+tanpa bukti, lencana menjadi sorotan canggung. Satu artefak jujur mengalahkan
+satu lencana lagi.
 
 ### Kasus 2 — Pembelajar mandiri dengan catatan kuat
 
 **Konteks.** Nadia belajar mandiri hampir setahun. Catatannya rapi: sumber
-bertanggal, istilah didefinisikan, serta pertentangan dicatat. Namun semuanya
-tersimpan privat dan ia tidak pernah menghasilkan satu keluaran yang bisa
-dibaca orang lain.
+bertanggal, istilah didefinisikan, pertentangan dicatat. Namun semuanya
+privat; ia tidak punya keluaran yang bisa dibaca orang lain.
 
-**Kendala.** Tanpa mentor, tanpa kerja klien, waktu hanya pada malam hari,
-dan takut kritik akan mengingkari usahanya.
+**Kendala.** Tanpa mentor atau kerja klien, waktu hanya malam hari, dan takut
+kritik.
 
-**Keputusan.** Ia mengubah satu topik menjadi laporan latihan dua halaman:
-batas yang dinyatakan, daftar sumber, satu klaim, satu sanggahan, dan
-bagian "tidak bisa diverifikasi". Dua orang membacanya; ia mencatat setiap
-perubahan dan menambahkan ringkasan untuk pembaca awam. Catatan lama ia
-sebut *bahan belajar*, laporan baru ia sebut *dibuat sendiri, lalu
-ditanggapi rekan* — tidak pernah ia sebut sebagai kerja klien.
+**Keputusan.** Ia mengubah satu topik menjadi laporan dua halaman: batas,
+daftar sumber, satu klaim, satu sanggahan, dan bagian "tidak bisa diverifikasi".
+Dua orang membacanya; ia mencatat perubahan dan menambahkan ringkasan awam.
+Catatan lama ia sebut *bahan belajar*, laporan baru *dibuat sendiri, lalu
+ditanggapi rekan* — bukan kerja klien.
 
-**Hasil.** Ketika panel memberi skenario yang tidak lengkap, ia bertanya
-apa yang diamati, apa yang disimpulkan, apa yang belum diketahui, dan
-siapa yang bisa menutup celah itu. Panel lebih menghargai kebiasaan itu
-daripada kelancaran menjelaskan topik.
+**Hasil.** Dalam skenario tidak lengkap, ia bertanya apa yang diamati,
+disimpulkan, dan belum diketahui. Panel lebih menghargai kebiasaan itu
+daripada kelancaran topik.
 
-**Pelajaran yang bisa diambil.** Catatan adalah bahan mentah. Yang mengubah
-nya menjadi bukti adalah **format, batas, dan tinjauan**. Menerbitkan lebih
-sedikit dengan batas lebih jelas justru mendapat kepercayaan lebih besar.
+**Pelajaran yang bisa diambil.** Catatan adalah bahan mentah; yang
+mengubahnya menjadi bukti adalah **format, batas, dan tinjauan**. Lebih
+sedikit dengan batas jelas mendapat kepercayaan lebih besar.
 
 ### Kasus 3 — Manajer yang merancang penilaian adil
 
 **Konteks.** Seorang pemimpin tim di organisasi fiktif memiliki satu lowongan
-junior. Pelamar berkisar dari pemula yang penuh sertifikat hingga pemilik
-laporan lab tanpa kredensial. Kapasitas untuk membimbing sangat terbatas.
+junior. Pelamar berkisar dari pemula penuh sertifikat hingga pemilik laporan
+lab tanpa kredensial; kapasitas membimbing terbatas.
 
-**Kendala.** Tidak ada pelamar boleh diminta menguji sistem sungguhan yang
-tidak dimiliki perusahaan. Latihan harus singkat, konsisten, dan aman
-untuk dibahas setelahnya.
+**Kendala.** Tidak ada pelamar boleh menguji sistem sungguhan yang bukan
+milik perusahaan. Latihan harus singkat dan aman dibahas.
 
-**Keputusan.** Ia menetapkan rubrik sebelum membaca lamaran: pertanyaan
-batas, pemisahan fakta dan dugaan, kejelasan ringkasan manajer, serta
-respons terhadap sanggahan. Semua pelamar menerima skenario fiktif yang
-sama dan pertanyaan lanjutan yang sama: "Apa yang membuat Anda berhenti?"
-Tidak tahu diizinkan; format alternatif ditawarkan; semua mendapat
-penjelasan hasil, termasuk yang tidak terpilih.
+**Keputusan.** Rubrik ia tetapkan sebelum membaca lamaran: pertanyaan batas,
+fakta vs dugaan, kejelasan ringkasan, respons terhadap sanggahan. Semua
+menerima skenario fiktif sama plus pertanyaan "Apa yang membuat Anda
+berhenti?" Tidak tahu diizinkan; semua mendapat penjelasan hasil.
 
-**Hasil.** Kandidat penuh sertifikat menjawab pertanyaan teknis dengan
-baik, tetapi menyebut lingkup sebagai "urusan orang lain". Kandidat
-perpindahan karier justru bertanya soal kepemilikan, jendela, dan kondisi
-berhenti, lalu merevisi satu kalimat saat dibantah. Ia diterima dengan
-peninjau yang disebut namanya dan umpan balik tertulis.
+**Hasil.** Kandidat penuh sertifikat menjawab teknis dengan baik, tetapi
+menyebut lingkup sebagai "urusan orang lain". Kandidat perpindahan karier
+bertanya soal kepemilikan dan kondisi berhenti, lalu merevisi kalimat saat
+dibantah. Ia diterima dengan peninjau bernama dan umpan balik tertulis.
 
-**Pelajaran yang bisa diambil.** Keadilan dirancang, bukan diharapkan:
-nyatakan standar, pakai materi aman, nilai dimensi yang sama, dan
-perlakukan koreksi sebagai bukti. Pelamar bisa melatih perilaku itu tanpa
-mengarang pengalaman.
+**Pelajaran yang bisa diambil.** Keadilan dirancang: nyatakan standar, pakai
+materi aman, nilai dimensi sama, dan perlakukan koreksi sebagai bukti.
+Pelamar bisa melatihnya tanpa mengarang pengalaman.
 
 ---
 
 ## Membangun bukti tanpa akses dunia nyata
 
-Anda tidak memerlukan klien untuk menghasilkan bukti; yang Anda butuhkan
-adalah **batas** dan **pembaca**. Tangga berikut naik dari catatan mentah
-ke kerja di bawah pengawasan. Naikilah tanpa mengganti label anak tangga.
+Bukti tidak memerlukan klien; ia memerlukan **batas** dan **pembaca**. Tangga
+berikut naik dari catatan mentah ke kerja tersupervisi — naikilah tanpa
+mengganti label anak tangga.
 
 | Anak tangga | Yang Anda hasilkan | Apa yang dibuktikannya | Cara memberi label |
 |---|---|---|---|
@@ -485,12 +461,10 @@ dan mana yang tetap privat, lihat
 
 ## Belajar terus-menerus tanpa kelelahan
 
-Keamanan berubah terus dan pasar memberi hadiah pada pembelajaran yang
-terlihat. Dua hal ini bersama-sama bisa mengubah belajar menjadi pekerjaan
-kedua yang tidak dibayar. Kelelahan bukan cacat karakter; ia adalah usaha
-tanpa batas yang tidak diimbangi pemulihan. Penilaian adalah komoditas
-paling berharga dalam pekerjaan ini, dan kelelahan merusak penilaian lebih
-cepat daripada kurangnya informasi.
+Keamanan berubah terus dan pasar menghargai pembelajaran yang terlihat;
+bersama, keduanya bisa mengubah belajar menjadi pekerjaan kedua. Kelelahan
+bukan cacat karakter, melainkan usaha tanpa batas tanpa pemulihan. Ia
+merusak penilaian — komoditas paling berharga di pekerjaan ini.
 
 Pakai **lantai dan langit-langit**:
 
@@ -713,9 +687,6 @@ lakukan sebelum mengubah laporan?
 **Q11.** Anda menemukan sistem menarik di luar lab dan menduga milik orang
 lain. Apa dua tindakan yang benar?
 
-**Q12.** Tidak ada peninjau yang bisa ditunjuk dalam tim. Apakah Anda tetap
-menerbitkan laporan? Jelaskan.
-
 <details>
 <summary><strong>Kunci — Set C</strong></summary>
 
@@ -726,8 +697,6 @@ jika perlu.
 keliru, dan catat ketidaksetujuan klien alih-alih menghapus temuan.
 **A11.** Berhenti dan tandai aset itu di luar lingkup; laporkan secara privat
 ke pihak yang berhak, jangan menyelidiki atau mempublikasikan.
-**A12.** Tidak. Tandai sebagai tinjauan mandiri, minta pembaca kedua, dan
-jaga jejak revisi tetap terlihat sebelum laporan dianggap final.
 
 </details>
 
@@ -742,9 +711,6 @@ wawancara. Apakah Anda mendaftar kredensial lagi? Pakai aturan tertulis.
 **Q15.** Minggu belajar Anda terus membesar dan catatan mulai berantakan.
 Apa yang Anda ubah lebih dulu?
 
-**Q16.** Testimoni penyedia mengatakan seorang peserta mendapat peran setelah
-satu kursus. Bagaimana pengaruhnya pada rencana Anda?
-
 <details>
 <summary><strong>Kunci — Set D</strong></summary>
 
@@ -755,8 +721,6 @@ ditutup, dan verifikasi status. Jika celahnya ada pada kualitas bukti,
 perbaiki itu lebih dulu.
 **A15.** Terapkan langit-langit mingguan. Catatan berantakan adalah sinyal
 berhenti; pulihkan dulu sebelum menambah materi.
-**A16.** Perlakukan sebagai satu kisah. Tanya apa lagi yang dilakukan orang
-itu, bandingkan lowongan lokal, dan kembalikan keputusan pada bukti.
 
 </details>
 
@@ -783,27 +747,24 @@ itu, bandingkan lowongan lokal, dan kembalikan keputusan pada bukti.
 
 ## Referensi dan verifikasi
 
-- [eccouncil.org](https://www.eccouncil.org/) — informasi program penerbit.
-  Pengambilan otomatis sempat dibatasi pada 26 November 2026; periksa langsung
-  di browser pada tanggal Anda mengambil keputusan.
+- [eccouncil.org](https://www.eccouncil.org/) — informasi program penerbit;
+  periksa di browser pada tanggal keputusan Anda.
 - [cert.eccouncil.org](https://cert.eccouncil.org/) — katalog saat ini,
   daftar sertifikasi yang di-retired, dan kebijakan pensiun kredensial. Saat
   diperiksa, daftar retired memuat entri ECSA historis, sementara katalog
   tidak menampilkan ECSA. Periksa ulang; halaman dapat berubah.
 - PTES, NIST SP 800-115, OWASP Testing Guide / ASVS, dan MITRE ATT&CK —
-  referensi metodologi dan basis pengetahuan publik. Verifikasi versi
-  terbaru; tidak satupun merupakan seperangkat perintah atau daftar
-  wajib yang menggantikan kebijakan organisasi.
+  referensi metodologi publik. Verifikasi versinya; bukan seperangkat
+  perintah atau pengganti kebijakan organisasi.
 - Lowongan aktif di wilayah Anda — bukti langsung atas judul dan kendala
-  lokal. Setiap iklan adalah klaim pemberi kerja, bukan tawaran.
+  lokal; setiap iklan adalah klaim, bukan tawaran.
 - Statistik, angka kompensasi, testimoni, dan janji penempatan dari vendor
   adalah klaim pemasaran. Artikel ini tidak memuat angka gaji maupun fakta
   format ujian.
 
-Artikel ini hanya edukasi: bukan nasihat hukum, keuangan, pajak, atau
-regulasi, dan bukan pengganti materi resmi penerbit, perjanjian kerja, atau
-pertimbangan profesional. Kebijakan organisasi dan lingkup tertulis selalu
-lebih utama daripada panduan publik mana pun.
+Artikel ini hanya edukasi, bukan nasihat hukum, keuangan, pajak, atau
+regulasi, serta bukan pengganti materi resmi atau pertimbangan profesional.
+Lingkup tertulis tetap lebih utama.
 
 Halaman pendamping memakai URL placeholder; ganti `siedysoes` dengan akun
 penerbit saat deploy:

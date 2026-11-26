@@ -387,7 +387,7 @@ Jawab keras-keras sebelum membuka kunci: latihan ini melatih keputusan, bukan ha
 
 **C1.** Pilih jalur yang artefaknya memperbaiki keputusan kini: web jika notifikasi aplikasi dominan, cloud jika identitas dan konfigurasi dominan. Aturannya: relevansi plus artefak, bukan novelty.
 
-**C2.** Bandingkan lowongan lokal, opsi jarak jauh, dan peran sebelahnya yang menghargai bukti serupa. Jadikan forensik sebagai jalur utama dengan jembatan pertahanan atau GRC, dan tinjau kembali setelah satu siklus.
+**C2.** Bandingkan lowongan lokal, opsi jarak jauh, dan peran yang menghargai bukti serupa. Jadikan forensik jalur utama dengan jembatan pertahanan atau GRC; tinjau setelah satu siklus.
 
 **C3.** Kemungkinan besar transfer pengetahuan, bukan kursus lain bagi analis itu. Dokumentasikan model identitas sebagai artefak bersama, minta orang lain meninjau, dan jadikan itu target tim.
 
@@ -408,11 +408,11 @@ Jawab keras-keras sebelum membuka kunci: latihan ini melatih keputusan, bukan ha
 <details>
 <summary><strong>Kunci D</strong></summary>
 
-**D1.** Tangkapan layar itu pengamatan yang belum terverifikasi, bukan temuan. Rekonstruksi lingkup, pertanyaan, prasyarat, dan batas; jika catatan tidak ada, sebut pekerjaan itu eksploratif dan jangan klaim hasil penilaian.
+**D1.** Itu pengamatan belum terverifikasi, bukan temuan. Rekonstruksi lingkup, pertanyaan, dan prasyarat; jika catatan tidak ada, sebut eksploratif dan jangan klaim hasil penilaian.
 
 **D2.** "Saya bisa bekerja di lab yang saya miliki hari ini; produksi memerlukan izin tertulis dari pihak yang berwenang menyetujuinya. Ini pilihannya dan keputusan yang saya butuhkan." Tawarkan alternatif lab.
 
-**D3.** Nyatakan kelemahan yang diduga, bukti pendukung dan bukti yang menentang, batas keterjangkauan, prasyarat, kontrol penyeimbang, proses bisnis yang terdampak, serta prioritas beserta alasannya. Jangan menyalin label alat sebagai kesimpulan.
+**D3.** Nyatakan dugaan, bukti pendukung dan penentang, batas keterjangkauan, prasyarat, kontrol penyeimbang, proses terdampak, serta prioritas beralasan. Jangan salin label alat.
 
 **D4.** Kredensial mengatakan sesuatu tentang penilaian di masa lalu, bukan praktik saat ini. Perbarui artefak; jangan menyamakan pembaruan administratif dengan keterampilan yang terbukti.
 
@@ -507,7 +507,7 @@ Keputusan:            [tunda / belajar / beli]
 5. Apakah artefak ini lolos gerbang? [ya / revisi / tidak]
 ```
 
-Untuk mengubah artefak menjadi contoh yang aman untuk diperlihatkan, lihat [Membangun Portofolio yang Aman](portfolio.md); untuk urutan latihan yang lebih luas, baca [Rencana Belajar Praktis](../exam/study-plan.md).
+Lihat [Membangun Portofolio yang Aman](portfolio.md) dan [Rencana Belajar Praktis](../exam/study-plan.md).
 
 ---
 
@@ -534,35 +534,30 @@ Untuk mengubah artefak menjadi contoh yang aman untuk diperlihatkan, lihat [Memb
 
 ## 15. Referensi dan verifikasi
 
-Periksa kembali semua sumber berikut sebelum bergantung pada mereka. Artikel ini sengaja tidak menuliskan format ujian, harga, jumlah soal, atau angka pembaruan sebagai fakta.
+Periksa kembali sumber berikut. Artikel ini sengaja tidak menulis format ujian, harga, jumlah soal, atau angka pembaruan sebagai fakta.
 
 - **EC-Council** — [eccouncil.org](https://www.eccouncil.org/) dan
   [cert.eccouncil.org](https://cert.eccouncil.org/). Dicek **26 Nov 2026**:
-  ECSA tidak termasuk daftar aktif; entri historis ada di halaman program
-  pensiun. Verifikasi status dan kebijakan langsung ke penerbit.
+  ECSA tidak di daftar aktif; entri historis ada di halaman pensiun. Verifikasi
+  langsung ke penerbit.
 - **CompTIA** — [daftar sertifikasi](https://www.comptia.org/certifications).
-  Security+, CySA+, dan PenTest+ terlihat sebagai keluarga kredensial.
-  Beberapa versi dapat hidup berdampingan; tanyakan mana yang diharapkan
-  tempat kerja Anda.
+  Security+, CySA+, dan PenTest+ adalah keluarga kredensial. Beberapa versi
+  bisa hidup bersama; tanyakan mana yang diminta tempat kerja.
 - **OffSec** — [offensive-security.com](https://www.offensive-security.com/).
-  Nama OSCP, OSCP+, dan PEN-200 diverifikasi sebagai nama; struktur serta
-  aturan pembaruan berubah, jadi baca halaman terkini.
+  OSCP, OSCP+, dan PEN-200 diverifikasi sebagai nama; baca halaman terkini.
 - **GIAC** — [giac.org](https://www.giac.org/certifications/). Kategori
-  practitioner dan applied-knowledge serta area fokus tersedia; persentase
-  peserta yang ditampilkan adalah statistik penerbit dengan catatan sumber —
-  klaim pemasaran, bukan ramalan.
-- **OWASP ASVS** — [halaman proyek](https://owasp.org/www-project-application-security-verification-standard/).
-  Persyaratan keamanan aplikasi web yang terbuka; cek rilis terkini sebelum
-  mengutipnya.
-- **NIST NICE Framework** — [pusat sumber daya](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center).
-  Bahasa bersama untuk peran dan keterampilan; periksa versinya.
-- **FIRST CVSS SIG** — [first.org/cvss](https://www.first.org/cvss/). Standar
-  penilaian, bukan keputusan bisnis; baca spesifikasi dan panduan terkini.
-- **MITRE ATT&CK** — [attack.mitre.org](https://attack.mitre.org/). Basis
-  pengetahuan perilaku pihak lawan untuk cakupan pertahanan, bukan petunjuk
-  praktis.
-- **Kebijakan organisasi sendiri, lingkup yang ditandatangani, dan hukum yang
-  berlaku** selalu mengalahkan panduan publik atau kredensial mana pun.
+  practitioner, applied-knowledge, dan area fokus tersedia; persentase peserta
+  adalah statistik penerbit — klaim pemasaran, bukan ramalan.
+- **OWASP ASVS** — [halaman proyek](https://owasp.org/www-project-application-security-verification-standard/):
+  persyaratan web terbuka; cek rilis terkini.
+- **NIST NICE Framework** — [pusat sumber daya](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center):
+  bahasa bersama untuk peran dan keterampilan; cek versinya.
+- **FIRST CVSS SIG** — [first.org/cvss](https://www.first.org/cvss/): standar
+  penilaian, bukan keputusan bisnis.
+- **MITRE ATT&CK** — [attack.mitre.org](https://attack.mitre.org/): basis
+  perilaku pihak lawan untuk cakupan pertahanan, bukan petunjuk praktis.
+- **Kebijakan organisasi, lingkup tertandatangani, dan hukum yang berlaku**
+  mengalahkan panduan publik maupun kredensial apa pun.
 
 ### Tautan pendamping
 
